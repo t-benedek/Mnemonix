@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mnemonix</string>
+    <string name="check_button">Check</string>
+    <string name="edit_check_test">Enter the text</string>
+</resources>
